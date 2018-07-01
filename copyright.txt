@@ -1,0 +1,5 @@
+Portions of Pennykoin are copyright the developers of: 
+ 
+ Cryptonote, Bytecoin, Digitalnote, Bitcedi, Ultranote, Karbowanec, Royalties, Graft & Pennykoin 2014-2018 
+  
+  MIT license
